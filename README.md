@@ -1,0 +1,3 @@
+- Hi, I’m @KitCatuwu
+- I’m interested in Front End Web Development
+- I’m currently learning HTML, CSS, Javascript, Node.js, React, Git/Github
