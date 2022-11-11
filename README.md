@@ -1,3 +1,3 @@
 - Hi, I’m @KitCatuwu
-- I’m interested in Front End Web Development
+- I’m interested in Front End Web Development and apple app development
 - I’m currently learning HTML, CSS, Javascript, Node.js, Swift Git/Github
