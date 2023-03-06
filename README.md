@@ -1,2 +1,2 @@
 - Hi, I’m @KitCatuwu
-- IDK what i'm interested in yet. Just going through different languages until O find what i want to do
+- IDK what i'm interested in yet. Just going through different languages until I find what i want to do
