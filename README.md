@@ -1,2 +1,2 @@
-- Hi, I’m @KitCatJ
-- Learning Machine Learning
+- Hi, I’m Cat
+- Right now I'm interested in web development
