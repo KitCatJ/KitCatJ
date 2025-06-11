@@ -1,2 +1,3 @@
 - Hi, I’m Cat
 - Right now I'm interested in web development
+- Learning with The Odin Project
